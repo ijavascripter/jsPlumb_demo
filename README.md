@@ -1,4 +1,4 @@
-##  在线绘图工具(Online Drawing Tools)
+﻿##  在线绘图工具(Online Drawing Tools)
 
 + 拖拽                                       
 + 单个**节点**选中事件
@@ -28,10 +28,8 @@
 [fontawesome](https://fontawesome.com/)|图标库
 
 ## Schedule
-+ 20171130 ,项目开始dev
-+ 20171205 ,开始嫁接在iie/pai上
-+ 20171218 ,重新开始添加功能
-+ 20171223 ,成功将项目嫁接在pai上
++ 20171230  提交项目第一版。
+
 
 ## 待解决
 ```
