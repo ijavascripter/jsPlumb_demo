@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+##  在线绘图工具(Online Drawing Tools)
 
-You can use the [editor on GitHub](https://github.com/yang-small-fan/jsPlumb_demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
++ 拖拽                                       
++ 单个**节点**选中事件
++ 单个节点选中样式控制                             
++ 单个**节点**出度入度可视化展示                 
++ **动态添加节点到指定位置或随机位置**              
++ **动态连接节点**                          
++ **动态删除连接**                           
++ 单个**节点**的出度入度直接获取
++ 平面**缩放**与**拖拽**       
++ 节点和边的右键点击事件
++ 实时记录跟踪每个节点的坐标
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Get Started
++ 平台地址:[http://localhost:3001/](http://localhost:4200/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tech Stack
+框架|说明
+---|---|
+[node.js](https://github.com/nodejs/node)|运行环境
+[Angular](https://github.com/angular/angular)|前端框架
+[bootstrap](http://www.bootcss.com/)|UI框架
+[jsPlumb](https://github.com/jsplumb/jsPlumb)|绘图方案
+[jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu)|contextMenu plugin
+[jquery.panzoom](https://github.com/timmywil/jquery.panzoom)|平移和缩放插件
+[fontawesome](https://fontawesome.com/)|图标库
 
-```markdown
-Syntax highlighted code block
+## Schedule
++ 20171130 ,项目开始dev
++ 20171205 ,开始嫁接在iie/pai上
++ 20171218 ,重新开始添加功能
++ 20171223 ,成功将项目嫁接在pai上
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 待解决
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yang-small-fan/jsPlumb_demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  1.平移和缩放问题 
+   ```
